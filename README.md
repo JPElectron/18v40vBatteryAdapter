@@ -4,9 +4,10 @@ Compatability list for 18v and 40v battery adapters
 <br>
 <br>
 
-Dual 18v side-by-side to 40v version is verified to work in the following...
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
 
+Dual 18v side-by-side to 40v version is verified to work in the following...
+ 
    - RY40407VNM = Blower 550 CFM, 125 MPH Whisper Series (Brushless)
    - RY40408VNM = Blower 525 CFM, 110 MPH
    - RY404010VNM = Blower 730 CFM, 190 MPH Whisper Series (Brushless)
@@ -24,8 +25,9 @@ Dual 18v side-by-side to 40v version is verified to work in the following...
 <br>
 <br>
 
-Dual 18v side-by-side WITH SPACER to 40v tool version is verified to work in the following...
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
+
+Dual 18v side-by-side WITH SPACER to 40v tool version is verified to work in the following...
 
    - RY40407VNM (with thicker 9Ah packs) = Blower 550 CFM, 125 MPH Whisper Series (Brushless)
    - RY404013VNM = Blower 650 CFM, 160 MPH (Brushless)
@@ -43,8 +45,9 @@ Dual 18v side-by-side WITH SPACER to 40v tool version is verified to work in the
 <br>
 <br>
 
-Inline version is verified to work in the following tools...
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
+
+Inline version is verified to work in the following tools...
 
    - RY404013VNM = Blower 650 CFM, 160 MPH (Brushless)
    - RY404015VNM = Blower/Vacuum 600CFM (but impedes usage of the front adjustable handle)
@@ -58,8 +61,9 @@ Inline version is verified to work in the following tools...
 <br>
 <br>
 
-Use any of the above to replace a Ryobi 40v battery such as those with P/N...
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
+
+Use any of the above to replace a Ryobi 40v battery such as those with P/N...
 
    - OP4020A = 2Ah
    - OP4040 = 4Ah
