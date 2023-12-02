@@ -1,6 +1,7 @@
 # 18v40vBatteryAdapter
 Compatability list for 18v and 40v battery adapters
 
+* = alternate P/N on Ryobi's site, HomeDepot, Direct Tools Factory Outlet)
 <br>
 <br>
 
@@ -10,10 +11,10 @@ Dual 18v side-by-side to 40v is verified to work in the following...
  
    - RY40407VNM = Blower 550 CFM, 125 MPH Whisper Series (Brushless)
    - RY40408VNM = Blower 525 CFM, 110 MPH
-   - RY404010VNM = Blower 730 CFM, 190 MPH Whisper Series (Brushless)
+   - RY404010VNM = Blower 730 CFM, 190 MPH Whisper Series (Brushless) (also sold as RY404100*)
    - RY404012VNM = Blower 450 CFM, 120 MPH 
    - RY404013VNM = Blower 650 CFM, 160 MPH (Brushless)
-   - RY404015VNM = Blower/Vacuum 600CFM (also sold as RY404150 on Ryobi's site, HomeDepot, Direct Tools Factory Outlet)
+   - RY404015VNM = Blower/Vacuum 600CFM (also sold as RY404150*)
    - RY40002 = String Trimmer/Power Head (Expand-It)
    - RY40006 = String Trimmer/Power Head (Expand-It)
    - RY40009VNM = String Trimmer/Power Head (Brushless)
