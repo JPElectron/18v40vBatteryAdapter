@@ -1,7 +1,7 @@
 # 18v40vBatteryAdapter
 Compatability list for 18v and 40v battery adapters
 
-* = alternate P/N on Ryobi's site, HomeDepot, Direct Tools Factory Outlet)
+*alternate P/N on Ryobi website, HomeDepot, and/or Direct Tools Factory Outlet
 <br>
 <br>
 
