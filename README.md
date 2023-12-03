@@ -32,7 +32,7 @@ Dual 18v side-by-side WITH SPACER to 40v is verified to work in the following...
 
    - RY40407VNM (with thicker 9Ah packs) = Blower 550 CFM, 125 MPH Whisper Series (Brushless)
    - RY404013VNM = Blower 650 CFM, 160 MPH (Brushless)
-   - RY404015VNM = Blower/Vacuum 600CFM (also sold as RY404150 on Ryobi's site, HomeDepot, Direct Tools Factory Outlet)
+   - RY404015VNM = Blower/Vacuum 600CFM (also sold as RY404150*)
    - RY40002 = String Trimmer/Power Head (Expand-It)
    - RY40006 = String Trimmer/Power Head (Expand-It)
    - RY40220 = String Trimmer/Power Head (Expand-It)
