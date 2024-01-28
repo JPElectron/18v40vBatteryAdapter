@@ -11,7 +11,6 @@ Dual 18v side-by-side to 40v is verified to work in the following...
  
    - RY40407VNM = Blower 550 CFM, 125 MPH Whisper Series (Brushless)
    - RY40408VNM = Blower 525 CFM, 110 MPH
-   - RY404010VNM = Blower 730 CFM, 190 MPH Whisper Series (Brushless) (also sold as RY404100*)
    - RY404012VNM = Blower 450 CFM, 120 MPH 
    - RY404013VNM = Blower 650 CFM, 160 MPH (Brushless)
    - RY404015VNM = Blower/Vacuum 600CFM (also sold as RY404150*)
@@ -64,6 +63,16 @@ Dual 18v INLINE version is verified to work in the following tools...
 
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
 
+Confirmed NOT working or NOT advisable....
+
+   - RY404010VNM = Blower 730 CFM, 190 MPH Whisper Series (Brushless) (also sold as RY404100*)
+     ...this model has been observed drawing too much amperage, resulting in melted contacts
+          
+<br>
+<br>
+
+<hr style="border: 1px; height: 1px; background: #AAAAAA;">
+
 Use any of the above to replace a Ryobi 40v battery such as those with P/N...
 
    - OP4020A = 2Ah
@@ -91,4 +100,4 @@ Never try to charge two 18v Ryobi Li-Ion batteries in series (such as putting th
 
 Any dual 18v adapter will NOT work in the 40v inverter/generator RYi1802B6/BT, instead get RYI818BT to use your 18v batteries.
 
-[Last Updated 11-29-2023]
+[Last Updated 01-27-2024]
