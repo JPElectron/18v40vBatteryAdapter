@@ -7,6 +7,20 @@ Compatability list for 18v and 40v battery adapters
 
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
 
+Confirmed NOT working or NOT advisable....
+
+   - RY404010VNM = Blower 730 CFM, 190 MPH Whisper Series (Brushless) (also sold as RY404100*)
+       ...this model has been observed drawing too much amperage, resulting in melted contacts
+
+   - RYi1802BT or RYi1802B6 = 1800-Watt Portable Battery Power Station Inverter Generator
+       ...because it cannot communicate with the battery pack extra pins, it does not recognize the battery at all
+       ...instead get RYi818BT or RYi818BG to use your 18v batteries
+          
+<br>
+<br>
+
+<hr style="border: 1px; height: 1px; background: #AAAAAA;">
+
 Dual 18v side-by-side to 40v is verified to work in the following...
  
    - RY40407VNM = Blower 550 CFM, 125 MPH Whisper Series (Brushless)
@@ -63,17 +77,7 @@ Dual 18v INLINE version is verified to work in the following tools...
 
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
 
-Confirmed NOT working or NOT advisable....
-
-   - RY404010VNM = Blower 730 CFM, 190 MPH Whisper Series (Brushless) (also sold as RY404100*)
-     ...this model has been observed drawing too much amperage, resulting in melted contacts
-          
-<br>
-<br>
-
-<hr style="border: 1px; height: 1px; background: #AAAAAA;">
-
-Use any of the above to replace a Ryobi 40v battery such as those with P/N...
+Use the dual 18v adapter in place of a Ryobi 40v battery such as those with P/N...
 
    - OP4020A = 2Ah
    - OP4040 = 4Ah
@@ -94,10 +98,14 @@ Use any of the above to replace a Ryobi 40v battery such as those with P/N...
 <br>
 
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
+
 Safety reminder...
 
-Never try to charge two 18v Ryobi Li-Ion batteries in series (such as putting this adapter in a 40v charger) as damage to the internal Battery Management System (BMS) or the charger is possible. The charger cannot communicate with the battery pack(s) extra pin(s) to get temperature or charge current, without this info the charger may assume the wrong data and create a fire hazard, so always charge the 18v batteries individually and in approved chargers.
+Never try to charge two 18v Ryobi Li-Ion batteries in series (such as putting the dual adapter in a 40v charger) or in parallel (such as putting the dual adapter in a 18v charger) as damage to the internal Battery Management System (BMS) or the charger is possible. The charger cannot communicate with the battery pack extra pins to get temperature or charge current, without this info the charger may assume the wrong data and create a fire hazard, so always charge 18v batteries individually and in approved chargers.  Genuine Ryobi chargers appear to do the right thing and not even attempt to charge, but 3rd party/aftermarket chargers may not be as smart.
 
-Any dual 18v adapter will NOT work in the 40v inverter/generator RYi1802B6/BT, instead get RYI818BT to use your 18v batteries.
+<br>
+<br>
+
+<hr style="border: 1px; height: 1px; background: #AAAAAA;">
 
 [Last Updated 01-27-2024]
