@@ -34,7 +34,7 @@ Dual **18v side-by-side to 40v** is verified to work in the following...
    - RY402011VNM = String Trimmer/Power Head (Brushless)
    - RY40604VNM = Hedge Trimmer (Brushless)
    - RY408013VNM = Snow Shovel
-   - RY40405 = Vac Attack Cordless Battery Leaf Vacuum/Mulcher
+   - RY40405BTL = Vac Attack Leaf Vacuum/Mulcher
 
 <br>
 <br>
@@ -53,7 +53,7 @@ Dual **18v side-by-side WITH SPACER to 40v** is verified to work in the followin
    - RY402011VNM = String Trimmer/Power Head (Brushless)
    - RY40604VNM = Hedge Trimmer (Brushless)
    - RY408013VNM = Snow Shovel
-   - RY40405 = Vac Attack Cordless Battery Leaf Vacuum/Mulcher
+   - RY40405BTL = Vac Attack Leaf Vacuum/Mulcher
    - RYi300BG = 40V 300-Watt Pure Sine Wave Power Source
 
 <br>
@@ -110,4 +110,4 @@ I admit I am overly paranoid about charging Lithium-ion batteries: I only charge
 
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
 
-[Last Updated 01-27-2024]
+[Last Updated 02-19-2024]
