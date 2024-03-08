@@ -22,6 +22,7 @@ Confirmed NOT working or NOT advisable....
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
 
 Dual **18v side-by-side to 40v** is verified to work in the following...
+(note that newer 8Ah and 12Ah batteries DO NOT fit in this adapter)
  
    - RY40407VNM = Blower 550 CFM, 125 MPH Whisper Series (Brushless)
    - RY40408VNM = Blower 525 CFM, 110 MPH
@@ -110,4 +111,4 @@ I admit I am overly paranoid about charging Lithium-ion batteries: I only charge
 
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
 
-[Last Updated 02-19-2024]
+[Last Updated 03-08-2024]
