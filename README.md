@@ -42,7 +42,7 @@ Dual **18v side-by-side to 40v** is verified to work in the following...<br>
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
 
 Dual **18v side-by-side WITH SPACER to 40v** is verified to work in the following...<br>
-(note the spacer is a non-removable part of the assembly as wires run through it)
+(note the spacer is a non-removable part of the assembly, wires run through it)
 
    - RY40407 (with thicker 9Ah packs) = Blower 550 CFM, 125 MPH Whisper Series (Brushless)
    - RY404013 = Blower 650 CFM, 160 MPH (Brushless)
