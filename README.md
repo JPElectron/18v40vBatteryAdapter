@@ -20,7 +20,7 @@ Confirmed DO NOT USE any adapter in....
 
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
 
-Dual **18v side-by-side to 40v** is verified to work in the following...
+Dual **18v side-by-side to 40v** is verified to work in the following...<br>
 (note that newer 8Ah and 12Ah batteries DO NOT fit in this adapter)
  
    - RY40407 = Blower 550 CFM, 125 MPH Whisper Series (Brushless)
@@ -41,7 +41,7 @@ Dual **18v side-by-side to 40v** is verified to work in the following...
 
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
 
-Dual **18v side-by-side WITH SPACER to 40v** is verified to work in the following...
+Dual **18v side-by-side WITH SPACER to 40v** is verified to work in the following...<br>
 (note the spacer is a non-removable part of the assembly as wires run through it)
 
    - RY40407 (with thicker 9Ah packs) = Blower 550 CFM, 125 MPH Whisper Series (Brushless)
