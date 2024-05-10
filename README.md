@@ -1,5 +1,13 @@
 # 18v40vBatteryAdapter
-Compatibility list for 18v and 40v battery adapters
+This page is the master compatibility list for all 18v and 40v battery adapters - scroll down to find which type of adapter is a confirmed fit for your tool.
+
+<br>
+<hr style="border: 1px; height: 1px; background: #AAAAAA;">
+
+Begining in May 2024, some assemblies that were previously hard-wired together are now shipped with a PowerPole connector and connecting cable.  This facilitates quicker build up of on-hand inventory so only the custom length connecting cable needs to be built on demand.
+The dual adapters look similar, but you should only use the 18v output version with 18v tools, and the 40v output version with 40v tools.
+
+![How to ID dual battery adapter output voltage](https://github.com/JPElectron/18v40vBatteryAdapter/blob/main/How%20to%20ID%20dual%20battery%20adapter%20output%20voltage.jpg?raw=true)
 
 <br>
 <br>
@@ -121,4 +129,4 @@ I admit I am overly paranoid about charging Lithium-ion batteries: I only charge
 
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
 
-[Last Updated 05-04-2024]
+[Last Updated 05-10-2024]
