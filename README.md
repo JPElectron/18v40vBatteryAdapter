@@ -1,5 +1,9 @@
 # 18v40vBatteryAdapter
-This page is the master compatibility list for all 18v and 40v battery adapters - scroll down to find which type of adapter is a confirmed fit for your tool.
+This page is the master compatibility list for all 18v and 40v battery adapters
+
+Scroll down to find which type of adapter is a confirmed fit for your tool
+
+**Note:** Adapters dropped on hard concrete floors will break!
 
 <br>
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
