@@ -2,6 +2,7 @@
 This is the master compatibility list for all 18v and 40v battery adapters, last updated 05-11-2024<br>
 Available at https://github.com/JPElectron/18v40vBatteryAdapter<br>
 Scroll down to find which type of adapter is a confirmed fit for your tool.<br>
+<br>
 **Note:** Adapters dropped on hard concrete floors will break!
 
 <br>
