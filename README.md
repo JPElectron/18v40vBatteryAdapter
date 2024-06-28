@@ -21,7 +21,7 @@ The dual adapters look similar, but you should only use the 18v output version w
 
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
 
-Confirmed DO NOT USE any adapter in....
+Confirmed **DO NOT USE** any adapter in....
 
    - RY404100 or RY404010 = Blower 730 CFM, 190 MPH Whisper Series (Brushless)
        ...this model has been observed drawing too much amperage, resulting in melted contacts
@@ -138,7 +138,7 @@ I admit I am overly paranoid about charging Lithium-ion batteries: I only charge
 
 Why can't I use other brands of batteries in Ryobi tools or in Power Wheels kids ride-on toys?
 
-Due to the additional complexity and cost of having to include a LVD (low-voltage disconnect) circuit, I will not offer adapters that use other Li-Ion batteries. A full technical explanation is below if your interested.
+Due to the additional complexity and cost of having to include a LVD (low-voltage disconnect) circuit, I will not offer adapters that use other Li-Ion batteries. A full technical explanation is below if your interested...
 
 Although TTI is the parent company of Hart, Milwaukee, and Ryobi, (also there is Ridgid, which TTI licenses from Emerson, but does not own outright) only the Ryobi brand of batteries contain a BMS (Battery Management System) which provides BOTH cell balancing and LVD (low-voltage disconnect) functions. LVD is important because if any cell in the pack goes below a certain voltage, that cell is permanently damaged and the pack will never charge again, this is true of all battery packs that contain Li-Ion cells. In the case of Ryobi tools, the tool has no LVD circuitry, and will keep taking power from the battery as long as you hold the trigger down, rather the LVD protection is in the Ryobi battery itself. So for all of the Ryobi 18v and 40v product lines, the battery is what cuts off power when the voltage gets lower than the point of no return. The tool is more or less "dumb" and will always draw power. In the case of connecting some other battery, a Ryobi tool can and will keep draining that battery past point of no return and damage it. Alternatively most other brands (Hart, DeWalt, and Milwaukee included) have the LVD disconnect in the tool, and no such protection in the battery pack itself.
 
