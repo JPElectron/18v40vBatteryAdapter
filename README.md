@@ -148,9 +148,9 @@ Due to the additional complexity and cost of having to include a LVD (low-voltag
 
 Although TTI is the parent company of Hart, Milwaukee, and Ryobi, (also there is Ridgid, which TTI licenses from Emerson, but does not own outright) only the Ryobi brand of batteries contain a BMS (Battery Management System) which provides BOTH cell balancing and LVD (low-voltage disconnect) functions. LVD is important because if any cell in the pack goes below a certain voltage, that cell is permanently damaged and the pack will never charge again, this is true of all battery packs that contain Li-Ion cells. In the case of Ryobi tools, the tool has no LVD circuitry, and will keep taking power from the battery as long as you hold the trigger down, rather the LVD protection is in the Ryobi battery itself. So for all of the Ryobi 18v and 40v product lines, the battery is what cuts off power when the voltage gets lower than the point of no return. The tool is more or less "dumb" and will always draw power. In the case of connecting some other battery, a Ryobi tool can and will keep draining that battery past point of no return and damage it. Alternatively most other brands (Hart, DeWalt, and Milwaukee included) have the LVD disconnect in the tool, and no such protection in the battery pack itself.
 
-For this same reason, other battery packs cannot be run in series or parallel, because additional custom circuitry would be required to gage which cells are approaching the LVD voltage.
+For this same reason, non-Ryobi battery packs CANNOT be run in series or parallel, because additional custom circuitry would be required to gage which cells are approaching the LVD voltage.
 
-For this same reason, other battery packs should not be used in Power Wheels kids ride-on toys, the pack will be run down past the point of no return.
+For this same reason, non-Ryobi battery packs should NOT be used in Power Wheels kids ride-on toys, the pack will be run down past the point of no return.
 
 <br>
 <br>
