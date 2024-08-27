@@ -1,5 +1,5 @@
 # 18v40vBatteryAdapter
-This is the master compatibility list for all 18v and 40v battery adapters, last updated 05-11-2024<br>
+This is the master compatibility list for all 18v and 40v battery adapters, last updated 08-27-2024<br>
 Available at https://github.com/JPElectron/18v40vBatteryAdapter<br>
 <br>
 Scroll down to find which type of adapter is a confirmed fit for your tool.<br>
@@ -29,7 +29,13 @@ Confirmed **DO NOT USE** any adapter in....
    - RYi1802BT or RYi1802B6 = 1800-Watt Portable Battery Power Station Inverter Generator
        ...because it cannot communicate with the battery pack extra pins, it does not recognize the battery at all
        ...instead get RYi818BT or RYi818BG to use your 18v batteries
-          
+
+Awaiting secondary confirmation...
+
+   - RY40205BTL = 15" Cordless String Trimmer (Expand-It)
+       ...one person has said the dual adapter does not provide continuous power,
+          unknown if this is related only to weed wacker attachment, chainsaw attachment, user error, or a defective tool
+
 <br>
 <br>
 
