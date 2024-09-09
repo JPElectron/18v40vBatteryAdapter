@@ -1,17 +1,19 @@
 # 18v40vBatteryAdapter
-This is the master compatibility list for all 18v and 40v battery adapters, last updated 08-27-2024<br>
+This is the master compatibility list for all 18v to 40v output battery adapters, last updated 09-09-2024<br>
 Available at https://github.com/JPElectron/18v40vBatteryAdapter<br>
 <br>
 Scroll down to find which type of adapter is a confirmed fit for your tool.<br>
 <br>
 **Note:** Adapters dropped on hard concrete floors will break!<br>
 <br>
+All adapters have been tested, in a variety of tools, but assessing the age or condition or temperature of every battery pack is unreasonable, as such you assume any/all risks of fire or equipment or property damage, regardless of how or where you use any of these adapters.  See additional safety information section below.<br>
+<br>
 If you want to know why other brands of batteries should NOT be used with Ryobi tools, nor in Power Wheels kids ride-on toys, scroll to the bottom of this page!<br>
 
 <br>
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
 
-Begining in May 2024, some assemblies that were previously hard-wired together are now shipped with a PowerPole connector and connecting cable.  This facilitates quicker build up of on-hand inventory so only the custom length connecting cable needs to be built on demand.
+Begining in May 2024, some assemblies that were previously hard-wired together are now shipped with a Anderson PowerPole connector and connecting cable.  This facilitates quicker build up of on-hand inventory so only the custom length connecting cable needs to be built on demand.
 The dual adapters look similar, but you should only use the 18v output version with 18v tools, and the 40v output version with 40v tools.
 
 ![How to ID dual battery adapter output voltage](https://github.com/JPElectron/18v40vBatteryAdapter/blob/main/How%20to%20ID%20dual%20battery%20adapter%20output%20voltage.jpg?raw=true)
@@ -26,9 +28,9 @@ Confirmed **DO NOT USE** any adapter in....
    - RY404100 or RY404010 = Blower 730 CFM, 190 MPH Whisper Series (Brushless)
        ...this model has been observed drawing too much amperage, resulting in melted contacts
 
-   - RYi1802BT or RYi1802B6 = 1800-Watt Portable Battery Power Station Inverter Generator
+   - RYi1802BT or RYi1802B6 or RYi818BT or RYi818BG = 1800-Watt Portable Battery Power Station Inverter Generator
        ...because it cannot communicate with the battery pack extra pins, it does not recognize the battery at all
-       ...instead get RYi818BT or RYi818BG to use your 18v batteries
+       ...you can only put a single genuine battery in a slot
 
 Awaiting secondary confirmation...
 
@@ -124,7 +126,7 @@ Use the dual 18v adapter in place of a Ryobi 40v battery such as those with P/N.
    - OP40125 = 12Ah
    - OP4012A1 = 12Ah
 
-More information on 40v batteries is available from toolboy's excellent site: https://toolboyworld.com/eBay/Ryobi_40v_Batteries.htm
+More information on 40v batteries is available from toolboy's excellent site: [https://toolboyworld.com/eBay/Ryobi_40v_Batteries.htm](https://toolboyworld.com/eBay/Ryobi_40v_Batteries.htm)
 
 <br>
 <br>
