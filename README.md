@@ -10,7 +10,7 @@ All adapters have been tested, in a variety of tools, but assessing the age or c
 <br>
 If you want to know why other brands of batteries should NOT be used with Ryobi tools, nor in Power Wheels kids ride-on toys, scroll to the bottom of this page!<br>
 <br>
-For 18v to 18v battery adapters see: https://github.com/JPElectron/18v40vBatteryAdapter
+For 18v to 18v battery adapters see: https://github.com/JPElectron/18v18vBatteryAdapter
 
 <br>
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
