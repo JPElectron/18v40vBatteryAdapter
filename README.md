@@ -4,7 +4,7 @@ Available at https://github.com/JPElectron/18v40vBatteryAdapter<br>
 <br>
 Scroll down to find which type of adapter is a confirmed fit for your tool.<br>
 <br>
-**Note:** These are [3D printed from .stl files](https://www.printables.com/@JPMakesStuff/models?search=ryobi) with [PETG Grass Green](https://www.amazon.com/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B0991YSBDG), adapters dropped on hard concrete floors will break!<br>
+**Note:** Adapters dropped on hard concrete floors will break!  These are [3D printed from .stl files](https://www.printables.com/@JPMakesStuff/models?search=ryobi) with [PETG Grass Green](https://www.amazon.com/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B0991YSBDG) or [available for sale](https://www.etsy.com/shop/JPElectron) already assembled and tested.<br>
 <br>
 All adapters have been tested, in a variety of tools, but assessing the age or condition or temperature of every battery pack is unreasonable, as such you assume any/all risks of fire or equipment or property damage, regardless of how or where you use any of these adapters.  See additional safety information section below.<br>
 <br>
