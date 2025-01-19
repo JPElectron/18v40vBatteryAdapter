@@ -4,7 +4,7 @@ Available at https://github.com/JPElectron/18v40vBatteryAdapter<br>
 <br>
 Scroll down to find which type of adapter is a confirmed fit for your tool.<br>
 <br>
-**Note:** Adapters dropped on hard concrete floors will break!<br>
+**Note:** These are [3D printed from .stl files](https://www.printables.com/@JPMakesStuff/models?search=ryobi) with [PETG Grass Green](https://www.amazon.com/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B0991YSBDG), adapters dropped on hard concrete floors will break!<br>
 <br>
 All adapters have been tested, in a variety of tools, but assessing the age or condition or temperature of every battery pack is unreasonable, as such you assume any/all risks of fire or equipment or property damage, regardless of how or where you use any of these adapters.  See additional safety information section below.<br>
 <br>
@@ -15,10 +15,15 @@ For 18v to 18v battery adapters see: https://github.com/JPElectron/18v18vBattery
 <br>
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
 
-Begining in May 2024, some assemblies that were previously hard-wired together are now shipped with a Anderson PowerPole connector and connecting cable.  This facilitates quicker build up of on-hand inventory so only the custom length connecting cable needs to be built on demand.
-The dual adapters look similar, but you should only use the 18v output version with 18v tools, and the 40v output version with 40v tools.
+Begining in May 2024, some assemblies that were previously hard-wired together are now shipped with a [Anderson PowerPole connector](https://powerwerx.com/anderson-power-powerpole-sb-connectors#?specs=304,305,306) and connecting cable.  This facilitates quicker build up of on-hand inventory so only the custom length connecting cable needs to be built on demand.
+
+The dual adapters look similar, but you should only use the 18v output version with 18v tools, and the 40v output version with 40v tools...
 
 ![How to ID dual battery adapter output voltage](https://github.com/JPElectron/18v40vBatteryAdapter/blob/main/How%20to%20ID%20dual%20battery%20adapter%20output%20voltage.jpg?raw=true)
+
+Circuit diagram...
+
+![Circuit diagram](https://github.com/JPElectron/18v40vBatteryAdapter/blob/main/circuit.png?raw=true)
 
 <br>
 <br>
