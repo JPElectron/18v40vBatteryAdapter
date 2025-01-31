@@ -1,10 +1,10 @@
 # 18v40vBatteryAdapter
-This is the master compatibility list for all 18v to 40v output battery adapters, last updated 09-09-2024<br>
+This is the master compatibility list for all 18v to 40v output battery adapters, last updated 01-31-2025<br>
 Available at https://github.com/JPElectron/18v40vBatteryAdapter<br>
 <br>
-Scroll down to find which type of adapter is a confirmed fit for your tool.<br>
+Scroll down to find which adapter is go or no-go based on which tool you plan to use it in.<br>
 <br>
-**Note:** Adapters dropped on hard concrete floors will break!  These are [3D printed from .stl files](https://www.printables.com/@JPMakesStuff/models?search=ryobi) with [PETG Grass Green](https://www.amazon.com/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B0991YSBDG) or [available for sale](https://www.etsy.com/shop/JPElectron) already assembled and tested.<br>
+**Note:** Adapters dropped on hard concrete floors will break!  These are [available for sale](https://www.etsy.com/shop/JPElectron) assembled and tested.<br>
 <br>
 All adapters have been tested, in a variety of tools, but assessing the age or condition or temperature of every battery pack is unreasonable, as such you assume any/all risks of fire or equipment or property damage, regardless of how or where you use any of these adapters.  See additional safety information section below.<br>
 <br>
@@ -92,7 +92,9 @@ Dual **18v side-by-side WITH SPACER to 40v** is verified to work in the followin
 
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
 
-Dual **18v INLINE to 40v** is verified to work in the following tools...
+Dual **18v INLINE to 40v** is verified to work in the following tools...<br>
+(note I am no longer offering this version as it's awkward to insert and hold most tools,
+consider a corded version where you put the batteries in a backpack instead)
 
    - RY404013 = Blower 650 CFM, 160 MPH (Brushless)
    - RY404015 = Blower/Vacuum 600CFM (but impedes usage of the front adjustable handle)
