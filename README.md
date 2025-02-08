@@ -1,6 +1,6 @@
 # 18v40vBatteryAdapter
 This is the master compatibility list for all 18v to 40v output battery adapters, last updated 01-31-2025<br>
-Available at https://github.com/JPElectron/18v40vBatteryAdapter<br>
+Available at https://github.com/JPMakesStuff/18v40vBatteryAdapter<br>
 <br>
 Scroll down to find which adapter is go or no-go based on which tool you plan to use it in.<br>
 <br>
@@ -10,7 +10,7 @@ All adapters have been tested, in a variety of tools, but assessing the age or c
 <br>
 If you want to know why other brands of batteries should NOT be used with Ryobi tools, nor in Power Wheels kids ride-on toys, scroll to the bottom of this page!<br>
 <br>
-For 18v to 18v battery adapters see: https://github.com/JPElectron/18v18vBatteryAdapter
+For 18v to 18v battery adapters see: https://github.com/JPMakesStuff/18v18vBatteryAdapter
 
 <br>
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
@@ -19,11 +19,11 @@ Begining in May 2024, some assemblies that were previously hard-wired together a
 
 The dual adapters look similar, but you should only use the 18v output version with 18v tools, and the 40v output version with 40v tools...
 
-![How to ID dual battery adapter output voltage](https://github.com/JPElectron/18v40vBatteryAdapter/blob/main/How%20to%20ID%20dual%20battery%20adapter%20output%20voltage.jpg?raw=true)
+![How to ID dual battery adapter output voltage](https://github.com/JPMakesStuff/18v40vBatteryAdapter/blob/main/How%20to%20ID%20dual%20battery%20adapter%20output%20voltage.jpg?raw=true)
 
 Circuit diagram...
 
-![Circuit diagram](https://github.com/JPElectron/18v40vBatteryAdapter/blob/main/circuit.png?raw=true)
+![Circuit diagram](https://github.com/JPMakesStuff/18v40vBatteryAdapter/blob/main/circuit.png?raw=true)
 
 <br>
 <br>
